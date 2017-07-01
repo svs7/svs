@@ -1,3 +1,2 @@
 # svs
-electric salt
-charge your battery & go
+ git clone https://github.com/luke-jt/bfgminer.git
